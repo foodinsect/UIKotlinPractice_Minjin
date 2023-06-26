@@ -7,6 +7,10 @@ android {
     namespace 'com.neppplus.uikotlinpractice_minjin'
     compileSdk 33
 
+    viewBinding {
+        enabled = true
+    }
+    
     defaultConfig {
         applicationId "com.neppplus.uikotlinpractice_minjin"
         minSdk 24
