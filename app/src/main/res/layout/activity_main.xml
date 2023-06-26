@@ -17,7 +17,7 @@
         android:id="@+id/contentEdt"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="아무 문장이나 입력"/>
+        android:hint="아무 문장이나 입력"/>
 
     <Button
         android:id="@+id/okBtn"
